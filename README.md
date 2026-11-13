@@ -242,4 +242,34 @@ Additional project documentation and the academic presentation are available in 
 
 ---
 
+
+## Application Screenshots
+
+### Dashboard
+![SKORA Dashboard](docs/Screenshots/Dashboard1.png)
+
+![SKORA Dashboard Analytics](docs/Screenshots/Dashboard2.png)
+
+### Skills Management
+![Skills](docs/Screenshots/Skills.png)
+
+### Activity Tracking
+![Activity](docs/Screenshots/Activity.png)
+
+### Assessments
+![Assessments](docs/Screenshots/Assessments.png)
+
+### Evidence Management
+![Evidence](docs/Screenshots/Evidence.png)
+
+### Resume Analysis
+![Resume Analysis](docs/Screenshots/Resume%20Analysis.png)
+
+### Job Matching
+![Job Match](docs/Screenshots/Job%20Match.png)
+
+### Learning Roadmap
+![Roadmap](docs/Screenshots/Roadmap.png)
+
+
 **SKORA — Track Skills. Measure Progress. Build Your Future.**
